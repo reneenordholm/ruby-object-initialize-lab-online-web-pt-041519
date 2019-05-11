@@ -7,4 +7,4 @@ class Dog
 end
 
 fido = Dog.new("Fido")
-puts fido.new
+puts fido.name
