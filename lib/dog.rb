@@ -7,5 +7,4 @@ class Dog
   end
 end
 
-fido = Dog.new("Fido")
-puts fido.new
+fido = Dog.new
