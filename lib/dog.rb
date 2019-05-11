@@ -7,7 +7,8 @@ class Dog
   end
   
   def breed
-    breed = 
+    puts "Mutt"
+  end
 end
 
 fido = Dog.new("Fido", "Pug")
